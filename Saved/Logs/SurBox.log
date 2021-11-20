@@ -3385,3 +3385,184 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.20-16.06.24:283][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.11.20-16.06.24:290][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
 [2021.11.20-16.06.24:322][819]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.11.20-16.08.26:818][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.11.20-16.08.26:819][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SurBoxWorld" FILE="../../../../../dev/SurBox/Saved/Autosaves/Game/Maps/SurBoxWorld_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.20-16.08.30:581][195]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/SurBoxWorld_Auto33FB890574B4F4266D8BA56942555E191.tmp' to '../../../../../dev/SurBox/Saved/Autosaves/Game/Maps/SurBoxWorld_Auto3.umap'
+[2021.11.20-16.08.30:582][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SurBoxWorld' took 3.789
+[2021.11.20-16.08.30:582][195]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.789
+[2021.11.20-16.10.26:701][631]LogContentBrowser: Attempting asset rename: CelShader -> ToonShader
+[2021.11.20-16.10.26:718][631]LogMaterial: Display: Missing cached shadermap for CelShader in PCD3D_SM5, Default, SM5 (DDC key hash: 4C9449703A03EE8907237B3E8AFE0AF26B4558EA), compiling. 
+[2021.11.20-16.10.26:745][631]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Low' priority
+[2021.11.20-16.10.26:781][631]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.11.20-16.10.26:781][631]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.11.20-16.10.26:781][631]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.11.20-16.10.26:781][631]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.11.20-16.10.26:781][631]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.11.20-16.10.26:781][631]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.11.20-16.10.26:781][631]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.11.20-16.10.26:781][631]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.11.20-16.10.26:781][631]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2021.11.20-16.10.27:328][631]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.20-16.10.27:328][631]LogShaderCompilers: Display: Total job queries 1509, among them cache hits 412 (27.30%)
+[2021.11.20-16.10.27:328][631]LogShaderCompilers: Display: Tracking 1056 distinct input hashes that result in 475 distinct outputs (44.98%)
+[2021.11.20-16.10.27:328][631]LogShaderCompilers: Display: RAM used: 2.49 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.30%
+[2021.11.20-16.10.27:328][631]LogShaderCompilers: Display: ================================================
+[2021.11.20-16.10.27:338][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/ToonShader" FILE="../../../../../dev/SurBox/Content/Materials/ToonShader.uasset" SILENT=true
+[2021.11.20-16.10.27:472][631]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/ToonShaderD23AFDB9435929AF2CA3829C5F2ED34A.tmp' to '../../../../../dev/SurBox/Content/Materials/ToonShader.uasset'
+[2021.11.20-16.10.27:579][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.11.20-16.10.27:619][631]AssetCheck: New page: Asset Save: ToonShader
+[2021.11.20-16.10.27:620][631]LogContentValidation: Display: Validating Material /Game/Materials/ToonShader.ToonShader
+[2021.11.20-16.12.12:871][533]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.20-16.12.12:880][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.20-16.12.12:881][533]PIE: New page: PIE session: SurBoxWorld (Nov 20, 2021, 8:12:12 PM)
+[2021.11.20-16.12.12:919][533]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SurBoxWorld
+[2021.11.20-16.12.12:948][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028923s)
+[2021.11.20-16.12.12:949][533]LogAIModule: Creating AISystem for world SurBoxWorld
+[2021.11.20-16.12.12:949][533]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2021.11.20-16.12.12:949][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SurBoxWorld.SurBoxWorld to /Game/Maps/UEDPIE_0_SurBoxWorld.SurBoxWorld (0.030183s)
+[2021.11.20-16.12.12:976][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.11.20-16.12.12:977][533]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.11.20-16.12.12:977][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.20-16.12.12:977][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.20-16.12.12:977][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.20-16.12.12:977][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.20-16.12.12:977][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.20-16.12.12:977][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.20-16.12.12:977][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.20-16.12.12:977][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.20-16.12.12:978][533]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.20-16.12.12:978][533]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.20-16.12.12:978][533]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.20-16.12.12:978][533]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.20-16.12.12:980][533]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.20-16.12.12:980][533]LogAudioMixer: Display: 1: FrontRight
+[2021.11.20-16.12.12:993][533]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.20-16.12.12:993][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.20-16.12.12:993][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.20-16.12.12:993][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.20-16.12.12:994][533]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.20-16.12.12:994][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.20-16.12.12:994][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.20-16.12.12:995][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.20-16.12.12:995][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.20-16.12.12:995][533]LogInit: FAudioDevice initialized.
+[2021.11.20-16.12.12:995][533]LogAudio: Display: Audio Device (ID: 8) registered with world 'SurBoxWorld'.
+[2021.11.20-16.12.13:004][533]LogLoad: Game class is 'SurBoxMode_C'
+[2021.11.20-16.12.13:009][533]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SurBoxWorld.SurBoxWorld up for play (max tick rate 0) at 2021.11.20-18.12.13
+[2021.11.20-16.12.13:009][533]LogWorld: Bringing up level for play took: 0.004447
+[2021.11.20-16.12.13:009][533]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.11.20-16.12.13:012][533]PIE: Server logged in
+[2021.11.20-16.12.13:013][533]PIE: Play in editor total start time 0.136 seconds.
+[2021.11.20-16.12.22:852][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.20-16.12.22:852][706]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SurBoxWorld
+[2021.11.20-16.12.22:852][706]LogWorld: UWorld::CleanupWorld for SurBoxWorld, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-16.12.22:853][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-16.12.22:861][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.20-16.12.22:905][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-16.12.22:929][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.20-16.12.22:929][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.20-16.12.22:930][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.20-16.12.22:933][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.20-16.12.22:937][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.11.20-16.12.22:971][707]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.11.20-16.12.31:901][761]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 10607673DD18DDF3D0806BD9CE29FF74F344ACBA), compiling. 
+[2021.11.20-16.12.31:918][761]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.20-16.12.31:970][763]MaterialEditorStats: Base pass shader: 125 instructions
+[2021.11.20-16.12.31:970][763]MaterialEditorStats: Base pass shader with Surface Lightmap: 152 instructions
+[2021.11.20-16.12.31:970][763]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2021.11.20-16.12.31:970][763]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.20-16.12.31:970][763]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.20-16.12.34:935][ 90]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 40B98ED6E9273CA844C8427C7721B51EF94EA413), compiling. 
+[2021.11.20-16.12.34:938][ 90]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: F137AFA41F61BDE58874E9BC9F81058FC0F4107A), compiling. 
+[2021.11.20-16.12.34:948][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.20-16.12.34:956][ 91]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.20-16.12.34:956][ 91]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.11.20-16.12.34:956][ 91]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.11.20-16.12.34:956][ 91]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.20-16.12.34:965][ 92]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.11.20-16.12.41:284][847]LogMaterialEditor: Saving and Compiling material TerrainMat
+[2021.11.20-16.12.41:652][847]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 0566EB7A9B0FE2E607B1CDA770DE220110AD4C6B), compiling. 
+[2021.11.20-16.12.41:683][847]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: C6C4FFBE62E95F84D8F97E640D078E4E74A7A11B), compiling. 
+[2021.11.20-16.12.41:689][847]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_331 in PCD3D_SM5, Default, SM5 (DDC key hash: 3B54CE289D9C5BC27E46FAA3B93ABF4CF5208B07), compiling. 
+[2021.11.20-16.12.41:721][847]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.11.20-16.12.41:721][847]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.11.20-16.12.41:721][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.20-16.12.41:727][847]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Submitted 20 shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 61
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 55
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 49
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 37
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 31
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.24:811][847]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.11.20-16.13.24:812][847]LogShaderCompilers: Display: Started 17 'Local' shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.24:812][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.20-16.13.24:930][847]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.24:952][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TerrainMat" FILE="../../../../../dev/SurBox/Content/Materials/TerrainMat.uasset" SILENT=true
+[2021.11.20-16.13.24:990][847]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/TerrainMat4E89ECA0468D6EF7B906278A22E6C254.tmp' to '../../../../../dev/SurBox/Content/Materials/TerrainMat.uasset'
+[2021.11.20-16.13.25:003][847]AssetCheck: New page: Asset Save: TerrainMat
+[2021.11.20-16.13.25:004][847]LogContentValidation: Display: Validating Material /Game/Materials/TerrainMat.TerrainMat
+[2021.11.20-16.13.25:011][847]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.20-16.13.27:179][ 85]LogMaterialEditor: Saving and Compiling material TerrainMat
+[2021.11.20-16.13.27:206][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TerrainMat" FILE="../../../../../dev/SurBox/Content/Materials/TerrainMat.uasset" SILENT=true
+[2021.11.20-16.13.27:222][ 85]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/TerrainMatCFB0A51447E4FD2E07B2F0A29830EAB0.tmp' to '../../../../../dev/SurBox/Content/Materials/TerrainMat.uasset'
+[2021.11.20-16.13.27:238][ 85]AssetCheck: New page: Asset Save: TerrainMat
+[2021.11.20-16.13.27:238][ 85]LogContentValidation: Display: Validating Material /Game/Materials/TerrainMat.TerrainMat
+[2021.11.20-16.13.27:352][ 94]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.11.20-16.13.27:352][ 94]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2021.11.20-16.13.27:352][ 94]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: Total job queries 1624, among them cache hits 435 (26.79%)
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: Tracking 1116 distinct input hashes that result in 503 distinct outputs (45.07%)
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: RAM used: 2.67 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.33%
+[2021.11.20-16.13.27:364][ 95]LogShaderCompilers: Display: ================================================
+[2021.11.20-16.13.27:830][109]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.11.20-16.13.27:831][109]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.28:115][112]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.11.20-16.13.28:116][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.20-16.13.28:735][121]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.20-16.13.28:988][127]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.11.20-16.13.28:988][127]MaterialEditorStats: Base pass shader with Surface Lightmap: 153 instructions
+[2021.11.20-16.13.28:988][127]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.11.20-16.13.28:988][127]MaterialEditorStats: Base pass vertex shader: 43 instructions
+[2021.11.20-16.13.28:988][127]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.20-16.13.34:951][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SurBoxWorld" FILE="../../../../../dev/SurBox/Content/Maps/SurBoxWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.20-16.13.34:974][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.20-16.13.38:690][829]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/SurBoxWorldA62256094125AFAB2A38DBAE1E86D1C1.tmp' to '../../../../../dev/SurBox/Content/Maps/SurBoxWorld.umap'
+[2021.11.20-16.13.38:698][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SurBoxWorld_BuiltData" FILE="../../../../../dev/SurBox/Content/Maps/SurBoxWorld_BuiltData.uasset" SILENT=true
+[2021.11.20-16.13.40:641][829]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/SurBoxWorld_BuiltData03AEA294481012807D880E99A0C6314B.tmp' to '../../../../../dev/SurBox/Content/Maps/SurBoxWorld_BuiltData.uasset'
+[2021.11.20-16.13.40:659][829]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.20-16.13.40:659][829]LogContentValidation: Display: Validating World /Game/Maps/SurBoxWorld.SurBoxWorld
+[2021.11.20-16.13.40:659][829]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/SurBoxWorld_BuiltData.SurBoxWorld_BuiltData
+[2021.11.20-16.13.42:559][  3]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-16.13.42:559][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
