@@ -1467,3 +1467,60 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.20-13.51.24:268][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.11.20-13.51.24:271][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
 [2021.11.20-13.51.24:304][564]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.11.20-13.51.48:883][966]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.20-13.51.48:883][966]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.20-13.51.48:963][971]LogEditorViewport: Clicking on Actor (LMB): Skybox_C (BP_Sky_Sphere)
+[2021.11.20-13.52.05:154][ 81]LogSlate: Window 'About Unreal Editor' being destroyed
+[2021.11.20-13.52.14:890][211]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.20-13.52.14:898][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.20-13.52.14:898][211]PIE: New page: PIE session: SurBoxWorld (Nov 20, 2021, 5:52:14 PM)
+[2021.11.20-13.52.14:931][211]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SurBoxWorld
+[2021.11.20-13.52.14:933][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002368s)
+[2021.11.20-13.52.14:934][211]LogAIModule: Creating AISystem for world SurBoxWorld
+[2021.11.20-13.52.14:935][211]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2021.11.20-13.52.14:935][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SurBoxWorld.SurBoxWorld to /Game/Maps/UEDPIE_0_SurBoxWorld.SurBoxWorld (0.003792s)
+[2021.11.20-13.52.14:953][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.11.20-13.52.14:954][211]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.11.20-13.52.14:955][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.20-13.52.14:955][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.20-13.52.14:955][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.20-13.52.14:955][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.20-13.52.14:955][211]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.20-13.52.14:955][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.20-13.52.14:955][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.20-13.52.14:955][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.20-13.52.14:955][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.20-13.52.14:955][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.20-13.52.14:955][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.20-13.52.14:955][211]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.20-13.52.14:957][211]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.20-13.52.14:957][211]LogAudioMixer: Display: 1: FrontRight
+[2021.11.20-13.52.14:970][211]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.20-13.52.14:971][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.20-13.52.14:971][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.20-13.52.14:971][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.20-13.52.14:971][211]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.20-13.52.14:971][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.20-13.52.14:971][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.20-13.52.14:973][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.20-13.52.14:973][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.20-13.52.14:973][211]LogInit: FAudioDevice initialized.
+[2021.11.20-13.52.14:973][211]LogAudio: Display: Audio Device (ID: 6) registered with world 'SurBoxWorld'.
+[2021.11.20-13.52.14:980][211]LogLoad: Game class is 'SurBoxMode_C'
+[2021.11.20-13.52.14:981][211]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SurBoxWorld.SurBoxWorld up for play (max tick rate 0) at 2021.11.20-15.52.14
+[2021.11.20-13.52.14:981][211]LogWorld: Bringing up level for play took: 0.000478
+[2021.11.20-13.52.14:981][211]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.11.20-13.52.14:983][211]PIE: Server logged in
+[2021.11.20-13.52.14:984][211]PIE: Play in editor total start time 0.089 seconds.
+[2021.11.20-13.52.20:524][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.20-13.52.20:524][868]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SurBoxWorld
+[2021.11.20-13.52.20:524][868]LogWorld: UWorld::CleanupWorld for SurBoxWorld, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-13.52.20:524][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-13.52.20:533][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.20-13.52.20:542][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-13.52.20:557][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.20-13.52.20:557][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.20-13.52.20:558][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.20-13.52.20:561][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.20-13.52.20:564][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.11.20-13.52.20:595][870]LogPlayLevel: Display: Destroying online subsystem :Context_9
