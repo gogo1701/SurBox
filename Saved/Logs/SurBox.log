@@ -965,3 +965,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.20-15.18.24:762][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2021.11.20-15.18.27:124][237]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2021.11.20-15.18.27:124][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-15.19.21:172][359]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.11.20-15.19.21:235][359]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2021.11.20-15.19.21:235][359]Cmd: MAP LOAD FILE="../../../../../dev/SurBox/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.20-15.19.21:235][359]LightingResults: New page: Lighting Build
+[2021.11.20-15.19.21:235][359]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.11.20-15.19.21:291][359]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-15.19.21:291][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-15.19.21:291][359]MapCheck: New page: Map Check
+[2021.11.20-15.19.21:291][359]LightingResults: New page: Lighting Build
+[2021.11.20-15.19.21:313][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.20-15.19.21:317][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.11.20-15.19.21:330][359]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.11.20-15.19.21:330][359]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.20-15.19.21:383][359]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.20-15.19.21:410][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.11.20-15.19.21:417][359]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.20-15.19.21:417][359]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2021.11.20-15.19.21:417][359]LogFileHelpers: Loading map 'MainMenu' took 0.182
