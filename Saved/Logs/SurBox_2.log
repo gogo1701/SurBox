@@ -2811,3 +2811,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.22-10.10.53:347][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.11.22-10.10.53:412][389]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
 [2021.11.22-10.10.53:440][390]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.11.22-10.12.17:950][680]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.22-10.12.17:951][680]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.22-10.12.18:144][680]LogUObjectHash: Compacting FUObjectHashTables data took  12.39ms
+[2021.11.22-10.12.18:146][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.160
+[2021.11.22-10.12.18:147][680]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenuUI] ([2] browsable assets)...
+[2021.11.22-10.12.18:147][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenuUI]
+[2021.11.22-10.12.18:147][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenuUI" FILE="../../../../../dev/SurBox/Saved/Autosaves/Game/UI/MainMenuUI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.11.22-10.12.18:184][680]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/MainMenuUI_Auto41AFE80D54033AC9111FD91A3FEB5F80F.tmp' to '../../../../../dev/SurBox/Saved/Autosaves/Game/UI/MainMenuUI_Auto4.uasset'
+[2021.11.22-10.12.18:185][680]LogFileHelpers: Auto-saving content packages took 0.038
+[2021.11.22-10.12.21:157][922]LogSlate: Window 'Message Log' being destroyed
+[2021.11.22-10.12.21:175][922]LogSlate: Window 'Message Log' being destroyed
