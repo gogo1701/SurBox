@@ -2822,3 +2822,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.22-10.12.18:185][680]LogFileHelpers: Auto-saving content packages took 0.038
 [2021.11.22-10.12.21:157][922]LogSlate: Window 'Message Log' being destroyed
 [2021.11.22-10.12.21:175][922]LogSlate: Window 'Message Log' being destroyed
+[2021.11.22-10.19.32:012][413]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.22-10.19.32:012][413]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
