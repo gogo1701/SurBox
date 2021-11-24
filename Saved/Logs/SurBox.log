@@ -1369,3 +1369,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.24-08.28.53:031][120]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
 [2021.11.24-08.28.53:031][120]MaterialEditorStats: Base pass vertex shader: 82 instructions
 [2021.11.24-08.28.53:031][120]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.24-08.38.39:390][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.11.24-08.38.39:396][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../dev/SurBox/Saved/Autosaves/Game/Maps/MainMenu_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.24-08.38.39:810][822]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/MainMenu_Auto2928FECEA414D4B07C358858F15E54825.tmp' to '../../../../../dev/SurBox/Saved/Autosaves/Game/Maps/MainMenu_Auto2.umap'
+[2021.11.24-08.38.39:820][822]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.456
+[2021.11.24-08.38.39:820][822]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.456
+[2021.11.24-09.10.57:322][606]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-09.10.57:322][606]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-09.12.10:564][564]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-09.12.10:565][564]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-09.12.33:572][789]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.11.24-09.12.51:912][802]Cmd: POLY SELECT MEMORY UNION
+[2021.11.24-11.07.08:267][535]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.11.24-11.07.21:224][948]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.11.24-11.17.58:160][910]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-11.59.46:242][451]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.11.24-11.59.47:607][502]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.24-12.01.41:491][375]LogUObjectHash: Compacting FUObjectHashTables data took 209.82ms
+[2021.11.24-12.01.42:164][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../dev/SurBox/Saved/Autosaves/Game/Maps/MainMenu_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.24-12.01.45:623][375]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/MainMenu_Auto3FE59F21C46EC211967EC979C3210FBCD.tmp' to '../../../../../dev/SurBox/Saved/Autosaves/Game/Maps/MainMenu_Auto3.umap'
+[2021.11.24-12.01.45:741][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 10.100
+[2021.11.24-12.01.45:750][375]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 10.100
+[2021.11.24-12.37.29:821][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.11.24-12.37.29:889][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../dev/SurBox/Saved/Autosaves/Game/Maps/MainMenu_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.24-12.37.30:679][417]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/MainMenu_Auto4EFC4787C42E45CF97B683BA9CA9A3895.tmp' to '../../../../../dev/SurBox/Saved/Autosaves/Game/Maps/MainMenu_Auto4.umap'
+[2021.11.24-12.37.30:688][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 1.090
+[2021.11.24-12.37.30:688][417]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.090
+[2021.11.24-12.53.38:484][621]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-12.53.38:484][621]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-13.08.30:560][540]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-13.08.30:560][540]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-13.22.14:521][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.11.24-13.23.28:712][ 30]BlueprintLog: New page: Compile PlayerCharacter
+[2021.11.24-13.23.29:746][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2021.11.24-13.23.30:902][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacter" FILE="../../../../../dev/SurBox/Content/Blueprints/PlayerCharacter.uasset" SILENT=true
+[2021.11.24-13.23.31:203][ 71]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/PlayerCharacter07F6E8C947D74C56B45146B9242FF1AC.tmp' to '../../../../../dev/SurBox/Content/Blueprints/PlayerCharacter.uasset'
+[2021.11.24-13.23.31:578][ 71]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.11.24-13.23.31:578][ 71]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.11.24-13.25.06:474][ 90]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../dev/SurBox/Assets/Worbench.fbx)
+[2021.11.24-13.25.06:878][ 90]LogFbx: Loading FBX Scene from ../../../../../dev/SurBox/Assets/Worbench.fbx
+[2021.11.24-13.25.07:053][ 90]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.24-13.25.12:267][ 90]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.24-13.25.12:869][ 90]LogFbx: Display: Triangulating static mesh Cylinder.003
+[2021.11.24-13.25.13:134][ 90]LogStaticMesh: Building static mesh Worbench...
+[2021.11.24-13.25.13:423][ 90]LogStaticMesh: Built static mesh [0.31s] /Game/StaticMeshes/Worbench.Worbench
+[2021.11.24-13.25.13:675][ 90]LogStaticMesh: Warning: Worbench has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.11.24-13.25.13:675][ 90]LogStaticMesh: Warning: Worbench has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.24-13.25.14:086][ 90]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.24-13.25.14:086][ 90]FBXImport: Warning: Worbench has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.11.24-13.25.14:086][ 90]FBXImport: Warning: Worbench has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.11.24-13.25.17:313][216]LogSlate: Window 'Message Log' being destroyed
+[2021.11.24-13.25.17:323][216]LogSlate: Window 'Message Log' being destroyed
+[2021.11.24-13.25.18:201][278]LogUObjectHash: Compacting FUObjectHashTables data took  41.73ms
+[2021.11.24-13.25.18:234][278]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.218
+[2021.11.24-13.25.18:239][278]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Worbench] ([1] browsable assets)...
+[2021.11.24-13.25.18:341][278]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Worbench.Worbench]
+[2021.11.24-13.25.18:341][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Worbench]
+[2021.11.24-13.25.18:341][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Worbench" FILE="../../../../../dev/SurBox/Saved/Autosaves/Game/StaticMeshes/Worbench_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.11.24-13.25.18:446][278]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/Worbench_Auto51D58FD404B7494A35F2D8583023FF969.tmp' to '../../../../../dev/SurBox/Saved/Autosaves/Game/StaticMeshes/Worbench_Auto5.uasset'
+[2021.11.24-13.25.18:446][278]LogFileHelpers: Auto-saving content packages took 0.211
+[2021.11.24-13.25.45:913][361]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.24-13.26.21:793][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.11.24-13.26.23:071][950]LogSlate: Window 'Save Content' being destroyed
+[2021.11.24-13.26.23:239][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Foliages/GrassFoliage" FILE="../../../../../dev/SurBox/Content/Foliages/GrassFoliage.uasset" SILENT=true
+[2021.11.24-13.26.23:442][950]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/GrassFoliage82A9152C4157C86831736685823A7935.tmp' to '../../../../../dev/SurBox/Content/Foliages/GrassFoliage.uasset'
+[2021.11.24-13.26.23:443][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../dev/SurBox/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.24-13.26.23:627][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.11.24-13.26.24:304][950]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/MainMenuA2E194B84185111BAD1463B39D639BD2.tmp' to '../../../../../dev/SurBox/Content/Maps/MainMenu.umap'
+[2021.11.24-13.26.25:752][950]LogFileHelpers: Saving map 'MainMenu' took 2.311
+[2021.11.24-13.26.25:753][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Worbench" FILE="../../../../../dev/SurBox/Content/StaticMeshes/Worbench.uasset" SILENT=true
+[2021.11.24-13.26.25:756][950]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/Worbench3D652CAB4449A08EE5B1498E04E69D4B.tmp' to '../../../../../dev/SurBox/Content/StaticMeshes/Worbench.uasset'
+[2021.11.24-13.26.30:250][950]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/SurBoxWorld.SurBoxWorld
+[2021.11.24-13.26.30:404][950]Cmd: MAP LOAD FILE="../../../../../dev/SurBox/Content/Maps/SurBoxWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.24-13.26.30:420][950]LightingResults: New page: Lighting Build
+[2021.11.24-13.26.30:467][950]LoadErrors: New page: Loading map: SurBoxWorld.umap
+[2021.11.24-13.26.31:632][950]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-13.26.31:680][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-13.26.32:741][950]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-13.26.32:878][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-13.26.32:996][950]MapCheck: New page: Map Check
+[2021.11.24-13.26.32:996][950]LightingResults: New page: Lighting Build
+[2021.11.24-13.26.33:270][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-13.26.37:982][950]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.11.24-13.26.39:716][950]LogAudio: Display: Audio Device (ID: 1) registered with world 'SurBoxWorld'.
+[2021.11.24-13.26.45:120][950]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.24-13.26.45:264][950]LogAIModule: Creating AISystem for world SurBoxWorld
+[2021.11.24-13.26.45:961][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.11.24-13.26.46:073][950]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.24-13.26.46:082][950]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.165ms to complete.
+[2021.11.24-13.26.46:082][950]LogFileHelpers: Loading map 'SurBoxWorld' took 15.687
+[2021.11.24-13.26.46:223][950]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-13.26.46:223][950]LogContentValidation: Display: Validating FoliageType_Actor /Game/Foliages/GrassFoliage.GrassFoliage
+[2021.11.24-13.26.46:223][950]LogContentValidation: Display: Validating StaticMesh /Game/StaticMeshes/Worbench.Worbench
+[2021.11.24-13.26.46:223][950]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.11.24-13.26.53:661][965]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
