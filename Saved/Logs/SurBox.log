@@ -1463,3 +1463,528 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.24-13.26.46:223][950]LogContentValidation: Display: Validating StaticMesh /Game/StaticMeshes/Worbench.Worbench
 [2021.11.24-13.26.46:223][950]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
 [2021.11.24-13.26.53:661][965]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.24-13.30.06:739][493]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.24-13.30.19:808][827]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.11.24-13.30.20:002][827]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.11.24-13.30.21:420][972]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2021.11.24-13.30.21:420][972]LogContentBrowser: End creating deferred item NewMaterial
+[2021.11.24-13.31.12:012][202]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../dev/SurBox/Assets/Dirt.psd)
+[2021.11.24-13.31.12:518][202]LogTexture: Display: Building textures: Dirt (OODLE_AutoDXT, 32X32)
+[2021.11.24-13.31.15:488][484]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.24-13.31.18:782][812]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/TerrainMat.TerrainMat
+[2021.11.24-13.31.19:453][812]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 5333133956C4F5FBF490387D24B056432AF1A239), compiling. 
+[2021.11.24-13.31.19:876][812]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2021.11.24-13.31.21:620][812]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 1EC6052D50D4EBA1CEC31E403B84596F317289FC), compiling. 
+[2021.11.24-13.31.21:760][812]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: A7B31D8F4768D60E6D4A96260A5667CBEC84384F), compiling. 
+[2021.11.24-13.31.21:775][812]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionNormalize_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8915FAEE6540A96A02E421267E6224B62999455D), compiling. 
+[2021.11.24-13.31.21:783][812]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C180AFE87C2B76C009E951D5D3575CFFF9BE7114), compiling. 
+[2021.11.24-13.31.21:784][812]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B136AB11A07C2BDED4CD96DDCDAD9A506BE2FC79), compiling. 
+[2021.11.24-13.31.21:785][812]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AD0CC157328416D5D8D29B068F48C5BC5EB16897), compiling. 
+[2021.11.24-13.31.21:786][812]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FC65D01E314BC50EC266827A9B9E3ADBD8E651E5), compiling. 
+[2021.11.24-13.31.21:811][812]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.24-13.31.21:811][812]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.24-13.31.21:811][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.31.22:261][813]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.23:988][816]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.24:427][833]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.24:780][858]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.24:796][859]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.25:142][868]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Total job queries 474, among them cache hits 339 (71.52%)
+[2021.11.24-13.31.25:857][883]LogShaderCompilers: Display: Tracking 90 distinct input hashes that result in 57 distinct outputs (63.33%)
+[2021.11.24-13.31.25:939][883]LogShaderCompilers: Display: RAM used: 0.23 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2021.11.24-13.31.25:939][883]LogShaderCompilers: Display: ================================================
+[2021.11.24-13.31.26:042][885]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.11.24-13.31.26:042][885]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.11.24-13.31.26:042][885]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.26:042][885]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.11.24-13.31.26:042][885]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.26:042][885]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2021.11.24-13.31.26:042][885]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.26:042][885]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.11.24-13.31.26:042][885]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.26:043][885]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.11.24-13.31.26:043][885]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.31.26:124][886]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.24-13.31.26:124][886]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.24-13.31.26:124][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.31.26:384][888]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.11.24-13.31.26:384][888]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.11.24-13.31.26:384][888]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.11.24-13.31.26:384][888]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2021.11.24-13.31.26:384][888]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.24-13.31.26:384][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.24-13.31.26:384][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.31.58:855][ 38]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 00244667DA25C686B49F080D327A92BB58E8C22A), compiling. 
+[2021.11.24-13.31.58:862][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.24-13.31.58:862][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.24-13.31.58:862][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.31.58:902][ 40]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.11.24-13.31.58:902][ 40]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.11.24-13.31.58:902][ 40]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.11.24-13.31.58:902][ 40]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2021.11.24-13.31.58:902][ 40]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.24-13.31.58:902][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.24-13.31.58:902][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.31.59:806][124]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 0250C218E5E65C978F28FB556B6A3D748DEF7CD4), compiling. 
+[2021.11.24-13.31.59:808][124]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.24-13.31.59:808][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.24-13.31.59:808][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.31.59:843][126]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.11.24-13.31.59:843][126]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.11.24-13.31.59:843][126]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.11.24-13.31.59:843][126]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2021.11.24-13.31.59:843][126]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.24-13.31.59:843][126]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.24-13.31.59:843][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.32.08:702][179]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 3FBE92D23B4A413357E640B781B842D58D6CCE66), compiling. 
+[2021.11.24-13.32.08:704][179]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E1626D89299B455C1DCA3291C104255171C5CAE), compiling. 
+[2021.11.24-13.32.08:718][179]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.24-13.32.08:718][179]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.24-13.32.08:718][179]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.32.08:925][181]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.11.24-13.32.08:925][181]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.11.24-13.32.08:925][181]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.11.24-13.32.08:925][181]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2021.11.24-13.32.08:925][181]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.24-13.32.08:925][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.24-13.32.08:925][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.32.19:193][242]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: A2D508A6418AAB19F69A95BF72F4772909A459E1), compiling. 
+[2021.11.24-13.32.19:193][242]LogMaterial: Warning: [AssetLog] /Engine/Transient.TerrainMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.24-13.32.19:231][242]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.24-13.32.19:233][242]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 52908181BAFC642F7F55E4C0E962DEC7051FFD90), compiling. 
+[2021.11.24-13.32.19:245][242]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.11.24-13.32.20:643][395]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 1B8B6C124BE5CAFCBA26B3879546404FECAFDFC0), compiling. 
+[2021.11.24-13.32.20:644][395]LogMaterial: Warning: [AssetLog] /Engine/Transient.TerrainMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.24-13.32.20:644][395]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.24-13.32.23:815][657]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 5AFC36A8762C632E83445002614E67A9F231822D), compiling. 
+[2021.11.24-13.32.23:817][657]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1B6A91CEF43F609F2CC659823F6501A381415569), compiling. 
+[2021.11.24-13.32.23:823][657]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: CC2ADCB977C849FE5FF5BD4C476D61B04D5952F8), compiling. 
+[2021.11.24-13.32.23:827][657]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.24-13.32.23:828][657]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.24-13.32.23:828][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.23:848][658]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.23:856][659]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.25:040][700]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.11.24-13.32.25:041][700]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.25:075][701]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.11.24-13.32.25:075][701]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.25:127][703]LogMaterialEditor: Saving and Compiling material TerrainMat
+[2021.11.24-13.32.29:145][703]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: AACD02992C3996AC3884C411DFC4EC87A3EF1623), compiling. 
+[2021.11.24-13.32.29:663][703]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: BD53888D8CAA25DD8CB363E7247DC525D5E3014C), compiling. 
+[2021.11.24-13.32.29:719][703]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_94 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D37E98A1D0DB1211D9ACDB56C4D1FE3B1280F03), compiling. 
+[2021.11.24-13.32.29:721][703]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_90 in PCD3D_SM5, Default, SM5 (DDC key hash: 21179218238F9E0F8E2DF6A21673F197105237FD), compiling. 
+[2021.11.24-13.32.29:723][703]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 34CDD4467200FD809A50A0562A0C50D10DCEC719), compiling. 
+[2021.11.24-13.32.29:750][703]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_165 in PCD3D_SM5, Default, SM5 (DDC key hash: 263406823C79282346BDFCA04D8C5CF98BE40B2B), compiling. 
+[2021.11.24-13.32.29:753][703]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_115 in PCD3D_SM5, Default, SM5 (DDC key hash: E0E6B72558A78493BA5F790EBF79322DEBBBF0FB), compiling. 
+[2021.11.24-13.32.29:754][703]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_141 in PCD3D_SM5, Default, SM5 (DDC key hash: 3AA440079DD8258DD1CA18300376AB8CCFDBC31C), compiling. 
+[2021.11.24-13.32.29:756][703]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: E3A2B5A7117940982B41117B6B3E29C541C83E61), compiling. 
+[2021.11.24-13.32.29:758][703]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_135 in PCD3D_SM5, Default, SM5 (DDC key hash: F7018686EDFB5A3BFBCDEE14D3020F342F8333A4), compiling. 
+[2021.11.24-13.32.29:760][703]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_132 in PCD3D_SM5, Default, SM5 (DDC key hash: EC178C743600E020685EE8CD10544EC68BD2BCBB), compiling. 
+[2021.11.24-13.32.30:021][703]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:029][703]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.11.24-13.32.30:029][703]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.11.24-13.32.30:029][703]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:032][703]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:032][703]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:032][703]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.11.24-13.32.30:032][703]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.11.24-13.32.30:032][703]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:039][703]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:039][703]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.11.24-13.32.30:039][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:040][703]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:040][703]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:041][703]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.11.24-13.32.30:041][703]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.11.24-13.32.30:041][703]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.11.24-13.32.30:041][703]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:041][703]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:043][703]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:045][703]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:046][703]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:048][703]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:049][703]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.11.24-13.32.30:049][703]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.11.24-13.32.30:049][703]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.11.24-13.32.30:049][703]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2021.11.24-13.32.30:049][703]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:191][703]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:228][703]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:228][703]LogShaderCompilers: Display: Submitted 52 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:239][703]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:248][703]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:281][703]LogShaderCompilers: Display: Submitted 52 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:310][703]LogShaderCompilers: Display: Submitted 52 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:310][703]LogShaderCompilers: Display: Submitted 52 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:331][703]LogShaderCompilers: Display: Submitted 52 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:353][703]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:355][703]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:432][703]LogShaderCompilers: Display: Submitted 52 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.30:683][703]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 24
+[2021.11.24-13.32.30:683][703]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:684][703]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2021.11.24-13.32.30:684][703]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:684][703]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2021.11.24-13.32.30:684][703]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2021.11.24-13.32.30:684][703]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:684][703]LogUObjectHash: Compacting FUObjectHashTables data took  11.98ms
+[2021.11.24-13.32.30:823][703]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.11.24-13.32.30:823][703]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:823][703]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2021.11.24-13.32.30:823][703]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:823][703]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.11.24-13.32.30:823][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:823][703]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.11.24-13.32.30:824][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.30:824][703]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.11.24-13.32.31:619][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:688][703]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.11.24-13.32.31:688][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.24-13.32.31:802][703]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 450
+[2021.11.24-13.32.31:802][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.31:856][703]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 440
+[2021.11.24-13.32.31:856][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.31:865][703]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 430
+[2021.11.24-13.32.31:865][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:007][703]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 420
+[2021.11.24-13.32.32:007][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:007][703]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 410
+[2021.11.24-13.32.32:007][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:029][703]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 400
+[2021.11.24-13.32.32:029][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:043][703]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 390
+[2021.11.24-13.32.32:043][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:127][703]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 380
+[2021.11.24-13.32.32:127][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:127][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.11.24-13.32.32:248][703]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 370
+[2021.11.24-13.32.32:248][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:257][703]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 360
+[2021.11.24-13.32.32:257][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:294][703]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 350
+[2021.11.24-13.32.32:294][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:568][703]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 340
+[2021.11.24-13.32.32:569][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:933][703]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.32:970][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TerrainMat" FILE="../../../../../dev/SurBox/Content/Materials/TerrainMat.uasset" SILENT=true
+[2021.11.24-13.32.33:020][703]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/TerrainMatA631FCC846A1C41D14E753BE33A4A7D6.tmp' to '../../../../../dev/SurBox/Content/Materials/TerrainMat.uasset'
+[2021.11.24-13.32.33:109][703]AssetCheck: New page: Asset Save: TerrainMat
+[2021.11.24-13.32.33:109][703]LogContentValidation: Display: Validating Material /Game/Materials/TerrainMat.TerrainMat
+[2021.11.24-13.32.33:155][703]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.24-13.32.33:156][703]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.24-13.32.33:156][703]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.32.36:480][782]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 342
+[2021.11.24-13.32.36:480][782]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.37:039][799]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 332
+[2021.11.24-13.32.37:040][799]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.38:174][828]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 322
+[2021.11.24-13.32.38:174][828]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.38:197][828]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 312
+[2021.11.24-13.32.38:197][828]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.38:222][828]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 302
+[2021.11.24-13.32.38:222][828]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.38:293][829]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 292
+[2021.11.24-13.32.38:293][829]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.38:474][831]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 282
+[2021.11.24-13.32.38:474][831]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.38:954][840]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 272
+[2021.11.24-13.32.38:954][840]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.39:173][842]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 262
+[2021.11.24-13.32.39:173][842]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.39:376][845]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 252
+[2021.11.24-13.32.39:376][845]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.39:458][847]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 242
+[2021.11.24-13.32.39:458][847]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.39:595][849]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 232
+[2021.11.24-13.32.39:595][849]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.43:444][968]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 222
+[2021.11.24-13.32.43:444][968]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.44:173][991]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 212
+[2021.11.24-13.32.44:173][991]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.44:414][998]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 202
+[2021.11.24-13.32.44:414][998]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.44:757][  8]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 192
+[2021.11.24-13.32.44:757][  8]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.44:938][ 10]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 182
+[2021.11.24-13.32.44:938][ 10]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.44:965][ 10]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 172
+[2021.11.24-13.32.44:965][ 10]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.45:164][ 17]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 162
+[2021.11.24-13.32.45:164][ 17]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.45:717][ 33]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 152
+[2021.11.24-13.32.45:717][ 33]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.45:884][ 38]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 142
+[2021.11.24-13.32.45:884][ 38]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.45:946][ 39]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 132
+[2021.11.24-13.32.45:946][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.45:949][ 39]MaterialEditorStats: Base pass shader: 132 instructions
+[2021.11.24-13.32.45:950][ 39]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2021.11.24-13.32.45:950][ 39]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.24-13.32.45:950][ 39]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2021.11.24-13.32.45:950][ 39]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.24-13.32.45:950][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.24-13.32.45:950][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.32.46:160][ 40]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 122
+[2021.11.24-13.32.46:160][ 40]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.46:517][ 45]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 112
+[2021.11.24-13.32.46:517][ 45]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.49:442][118]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 102
+[2021.11.24-13.32.49:442][118]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.49:542][121]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 93
+[2021.11.24-13.32.49:542][121]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.50:827][159]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 85
+[2021.11.24-13.32.50:827][159]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.51:003][164]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 77
+[2021.11.24-13.32.51:003][164]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.51:280][170]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 70
+[2021.11.24-13.32.51:280][170]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.51:691][178]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 64
+[2021.11.24-13.32.51:692][178]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.51:768][181]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 58
+[2021.11.24-13.32.51:768][181]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.51:914][184]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 53
+[2021.11.24-13.32.51:915][184]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.52:149][189]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 48
+[2021.11.24-13.32.52:149][189]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.52:379][193]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Dirt.Dirt
+[2021.11.24-13.32.53:293][193]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 43
+[2021.11.24-13.32.53:293][193]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.53:293][193]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 39
+[2021.11.24-13.32.53:293][193]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.53:293][193]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2021.11.24-13.32.53:293][193]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.53:293][193]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0390 seconds. Added 1 classes and 2 folders.
+[2021.11.24-13.32.53:914][193]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 32
+[2021.11.24-13.32.53:914][193]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:092][193]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.11.24-13.32.56:093][193]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.24-13.33.00:903][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt" FILE="../../../../../dev/SurBox/Content/Textures/Dirt.uasset" SILENT=true
+[2021.11.24-13.33.00:904][529]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/Dirt09947C554BA1043EC0FCEF845843035B.tmp' to '../../../../../dev/SurBox/Content/Textures/Dirt.uasset'
+[2021.11.24-13.33.00:962][529]AssetCheck: New page: Asset Save: Dirt
+[2021.11.24-13.33.00:962][529]LogContentValidation: Display: Validating Texture2D /Game/Textures/Dirt.Dirt
+[2021.11.24-13.34.02:570][434]LogEditorFactories: Performing atomic reimport of [D:/dev/SurBox/Assets/Dirt.psd]
+[2021.11.24-13.34.02:570][434]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/dev/SurBox/Assets/Dirt.psd)
+[2021.11.24-13.34.02:592][434]LogTexture: Display: Building textures: Dirt (OODLE_AutoDXT, 32X32)
+[2021.11.24-13.34.02:593][434]LogEditorFactories: -- imported successfully
+[2021.11.24-13.34.09:739][212]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Dirt.Dirt
+[2021.11.24-13.34.12:203][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt" FILE="../../../../../dev/SurBox/Content/Textures/Dirt.uasset" SILENT=true
+[2021.11.24-13.34.12:205][480]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/Dirt6AAB1E74403D8944217C78B24040BF64.tmp' to '../../../../../dev/SurBox/Content/Textures/Dirt.uasset'
+[2021.11.24-13.34.12:220][480]AssetCheck: New page: Asset Save: Dirt
+[2021.11.24-13.34.12:220][480]LogContentValidation: Display: Validating Texture2D /Game/Textures/Dirt.Dirt
+[2021.11.24-13.34.13:120][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt" FILE="../../../../../dev/SurBox/Content/Textures/Dirt.uasset" SILENT=true
+[2021.11.24-13.34.13:121][585]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/DirtCA3B9786473213598000E9B8DC58D1D2.tmp' to '../../../../../dev/SurBox/Content/Textures/Dirt.uasset'
+[2021.11.24-13.34.13:138][585]AssetCheck: New page: Asset Save: Dirt
+[2021.11.24-13.34.13:138][585]LogContentValidation: Display: Validating Texture2D /Game/Textures/Dirt.Dirt
+[2021.11.24-13.34.45:199][662]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.24-13.34.57:662][975]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 6E2E0FC9A5F4C3CA48B51B16D0FEBDB06E2BAA92), compiling. 
+[2021.11.24-13.34.57:663][975]LogMaterial: Warning: [AssetLog] /Engine/Transient.TerrainMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.24-13.34.57:663][975]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.24-13.34.57:663][975]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B1DD89C2F2EF021731C5F5AD0E3D58D089D553CF), compiling. 
+[2021.11.24-13.34.57:664][975]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: F1D28DDDA127DB15A1D65BD4F531E1781E8FC0BB), compiling. 
+[2021.11.24-13.34.57:664][975]LogMaterial: Warning: [AssetLog] /Engine/Transient.TerrainMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.24-13.34.57:664][975]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.24-13.34.57:667][975]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.11.24-13.34.59:912][215]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 32273AA7AEDAD605F583FCDF266AFC4FC4478A94), compiling. 
+[2021.11.24-13.34.59:913][215]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CF5A33300D4F1E644E7B47FD0E26158EDB6BA05), compiling. 
+[2021.11.24-13.34.59:915][215]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 4CAD6DA48E95D2DFE432B6DF1AB764503A2FA135), compiling. 
+[2021.11.24-13.34.59:919][215]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.24-13.34.59:921][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.24-13.34.59:921][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.34.59:954][216]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.24-13.34.59:954][216]LogShaderCompilers: Display: Total job queries 1087, among them cache hits 439 (40.39%)
+[2021.11.24-13.34.59:954][216]LogShaderCompilers: Display: Tracking 621 distinct input hashes that result in 225 distinct outputs (36.23%)
+[2021.11.24-13.34.59:954][216]LogShaderCompilers: Display: RAM used: 1.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2021.11.24-13.34.59:954][216]LogShaderCompilers: Display: ================================================
+[2021.11.24-13.34.59:955][216]MaterialEditorStats: Base pass shader: 132 instructions
+[2021.11.24-13.34.59:955][216]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2021.11.24-13.34.59:955][216]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.24-13.34.59:955][216]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2021.11.24-13.34.59:955][216]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.24-13.34.59:955][216]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.24-13.34.59:955][216]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.35.01:868][437]LogMaterialEditor: Saving and Compiling material TerrainMat
+[2021.11.24-13.35.02:149][437]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: C54F44ADF348DE297B7A13F38E4592271673D194), compiling. 
+[2021.11.24-13.35.02:188][437]LogMaterial: Display: Missing cached shadermap for TerrainMat in PCD3D_SM5, Default, SM5 (DDC key hash: 1251987F3A314EC7BC36C3893F63AAF117C76161), compiling. 
+[2021.11.24-13.35.02:195][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_94 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E80F584A9FBE2E73CB2F7585FE6096CDB8B7A60), compiling. 
+[2021.11.24-13.35.02:197][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_90 in PCD3D_SM5, Default, SM5 (DDC key hash: EF5E3353F5A01F1B36395E7EC05734021C8BE00A), compiling. 
+[2021.11.24-13.35.02:199][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 699A67C70C68881C74AB220BFE93D0628A02429D), compiling. 
+[2021.11.24-13.35.02:200][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_165 in PCD3D_SM5, Default, SM5 (DDC key hash: 87DE00E165E98A9EB583DEE0BAF0567F177B720F), compiling. 
+[2021.11.24-13.35.02:202][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_115 in PCD3D_SM5, Default, SM5 (DDC key hash: 17FDE56DA934A8DED4A314460B75A33C84FFDFDD), compiling. 
+[2021.11.24-13.35.02:204][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_141 in PCD3D_SM5, Default, SM5 (DDC key hash: AFC596078999558E193BB287AC11EBA8B2892BEF), compiling. 
+[2021.11.24-13.35.02:205][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: 006DE8C0060D831047FE8AF02E69A6004AA4C65C), compiling. 
+[2021.11.24-13.35.02:207][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_135 in PCD3D_SM5, Default, SM5 (DDC key hash: FAB663508433BF526CE9D824D68A24F5EBBA2FBE), compiling. 
+[2021.11.24-13.35.02:209][437]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_132 in PCD3D_SM5, Default, SM5 (DDC key hash: 31EF597F48FD035281DE99E748C5761CD08BE197), compiling. 
+[2021.11.24-13.35.02:902][437]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2021.11.24-13.35.03:444][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.11.24-13.35.03:526][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TerrainMat" FILE="../../../../../dev/SurBox/Content/Materials/TerrainMat.uasset" SILENT=true
+[2021.11.24-13.35.03:532][437]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/TerrainMat9B1FB6A842A3DE0CCA93AFB02EE5F125.tmp' to '../../../../../dev/SurBox/Content/Materials/TerrainMat.uasset'
+[2021.11.24-13.35.03:547][437]AssetCheck: New page: Asset Save: TerrainMat
+[2021.11.24-13.35.03:547][437]LogContentValidation: Display: Validating Material /Game/Materials/TerrainMat.TerrainMat
+[2021.11.24-13.35.03:564][437]MaterialEditorStats: Base pass shader: 132 instructions
+[2021.11.24-13.35.03:564][437]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2021.11.24-13.35.03:564][437]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.24-13.35.03:564][437]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2021.11.24-13.35.03:564][437]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.24-13.35.03:564][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.24-13.35.03:564][437]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.24-13.35.47:632][632]LogEditorFactories: Performing atomic reimport of [D:/dev/SurBox/Assets/Dirt.psd]
+[2021.11.24-13.35.47:632][632]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/dev/SurBox/Assets/Dirt.psd)
+[2021.11.24-13.35.47:644][632]LogTexture: Display: Building textures: Dirt (OODLE_AutoDXT, 32X32)
+[2021.11.24-13.35.47:646][632]LogEditorFactories: -- imported successfully
+[2021.11.24-13.35.59:518][ 79]LogEditorFactories: Performing atomic reimport of [D:/dev/SurBox/Assets/Dirt.psd]
+[2021.11.24-13.35.59:518][ 79]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/dev/SurBox/Assets/Dirt.psd)
+[2021.11.24-13.35.59:531][ 79]LogTexture: Display: Building textures: Dirt (OODLE_AutoDXT, 32X32)
+[2021.11.24-13.35.59:533][ 79]LogEditorFactories: -- imported successfully
+[2021.11.24-13.37.45:390][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.11.24-13.37.45:407][379]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SurBoxWorld' took 0.049
+[2021.11.24-13.37.45:429][379]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dirt] ([1] browsable assets)...
+[2021.11.24-13.37.45:431][379]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dirt.Dirt]
+[2021.11.24-13.37.45:431][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dirt]
+[2021.11.24-13.37.45:431][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt" FILE="../../../../../dev/SurBox/Saved/Autosaves/Game/Textures/Dirt_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.11.24-13.37.45:433][379]LogSavePackage: Moving '../../../../../dev/SurBox/Saved/Dirt_Auto6256136EE4077426EFF0E8B916F111FE8.tmp' to '../../../../../dev/SurBox/Saved/Autosaves/Game/Textures/Dirt_Auto6.uasset'
+[2021.11.24-13.37.45:433][379]LogFileHelpers: Auto-saving content packages took 0.026
+[2021.11.24-13.38.01:091][629]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.24-13.38.01:489][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-13.38.01:562][629]PIE: New page: PIE session: SurBoxWorld (Nov 24, 2021, 5:38:01 PM)
+[2021.11.24-13.38.01:694][629]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SurBoxWorld
+[2021.11.24-13.38.02:097][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.402917s)
+[2021.11.24-13.38.02:123][629]LogAIModule: Creating AISystem for world SurBoxWorld
+[2021.11.24-13.38.02:190][629]LogPlayLevel: PIE: World Init took: (0.093009s)
+[2021.11.24-13.38.02:204][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SurBoxWorld.SurBoxWorld to /Game/Maps/UEDPIE_0_SurBoxWorld.SurBoxWorld (0.496226s)
+[2021.11.24-13.38.02:263][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.11.24-13.38.02:300][629]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.24-13.38.02:396][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-13.38.02:396][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-13.38.02:396][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-13.38.02:396][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-13.38.02:396][629]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-13.38.02:396][629]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-13.38.02:396][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-13.38.02:407][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-13.38.02:432][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.24-13.38.02:432][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.24-13.38.02:432][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.24-13.38.02:432][629]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-13.38.02:483][629]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-13.38.02:483][629]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-13.38.02:501][629]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.24-13.38.02:531][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-13.38.02:531][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-13.38.02:542][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-13.38.02:542][629]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-13.38.02:543][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-13.38.02:547][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-13.38.02:560][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-13.38.02:560][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-13.38.02:560][629]LogInit: FAudioDevice initialized.
+[2021.11.24-13.38.02:598][629]LogAudio: Display: Audio Device (ID: 3) registered with world 'SurBoxWorld'.
+[2021.11.24-13.38.02:958][629]LogLoad: Game class is 'SurBoxMode_C'
+[2021.11.24-13.38.03:229][629]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SurBoxWorld.SurBoxWorld up for play (max tick rate 0) at 2021.11.24-15.38.03
+[2021.11.24-13.38.03:297][629]LogWorld: Bringing up level for play took: 0.149207
+[2021.11.24-13.38.03:471][629]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.11.24-13.38.03:923][629]PIE: Server logged in
+[2021.11.24-13.38.03:931][629]PIE: Play in editor total start time 2.608 seconds.
+[2021.11.24-13.38.10:048][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-13.38.10:048][244]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SurBoxWorld
+[2021.11.24-13.38.10:085][244]LogWorld: UWorld::CleanupWorld for SurBoxWorld, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-13.38.10:100][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-13.38.10:134][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-13.38.10:173][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-13.38.10:202][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-13.38.10:255][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-13.38.10:256][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-13.38.10:267][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-13.38.10:325][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.11.24-13.38.10:374][245]LogPlayLevel: Display: Destroying online subsystem :Context_15
